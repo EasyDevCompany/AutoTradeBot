@@ -20,7 +20,7 @@ how to mark the status of the order as collected or delivered, upload the order 
 </a> - AutoTradeBot
 
 
-
+<p></p>
 
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
