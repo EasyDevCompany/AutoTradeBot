@@ -19,6 +19,9 @@ how to mark the status of the order as collected or delivered, upload the order 
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a> - AutoTradeBot
 
+
+
+
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgresql&logoColor=blue)
 ![Docker](https://img.shields.io/badge/docker-090909?style=for-the-badge&logo=docker&logoColor=blue)
