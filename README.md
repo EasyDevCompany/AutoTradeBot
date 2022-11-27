@@ -17,7 +17,7 @@ how to mark the status of the order as collected or delivered, upload the order 
 
 <a href="https://t.me/AUTOTRADEMOSCOW_BOT">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-</a> - AutoTradeBot
+</a>
 
 
 <p></p>
